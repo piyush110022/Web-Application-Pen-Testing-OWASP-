@@ -49,6 +49,4 @@ The work is for **educational and portfolio purposes only**.
 
 ---
 
-## 👨‍💻 Author  
-**Koustav Parui**  
-Cybersecurity Enthusiast | Penetration Testing | Vulnerability Assessment  
+ 
