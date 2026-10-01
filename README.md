@@ -1,6 +1,6 @@
 # OWASP Juice Shop – Penetration Testing Report (with Risk Ratings)  
 
-[owasp_juice_shop_pentest.pdf](https://github.com/user-attachments/files/21994238/owasp_juice_shop_pentest.pdf)
+[owasp_juice_shop_pentest.docx](https://github.com/piyush110022/Web-Application-Pen-Testing-OWASP-/blob/main/owasp_juice_shop_pentest.docx)
 
 ## 📌 Project Overview  
 This repository showcases a **penetration testing project** conducted on **OWASP Juice Shop**, a deliberately vulnerable web application.  
