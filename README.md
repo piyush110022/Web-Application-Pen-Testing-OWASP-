@@ -43,9 +43,7 @@ The project demonstrates **end-to-end penetration testing methodology** — from
 
 ---
 
-## ⚠️ Disclaimer  
-This assessment was conducted in a **controlled lab environment** using OWASP Juice Shop, a vulnerable application designed for training.  
-The work is for **educational and portfolio purposes only**.  
+ 
 
 ---
 
